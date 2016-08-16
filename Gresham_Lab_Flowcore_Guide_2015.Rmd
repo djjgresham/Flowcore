@@ -1,7 +1,7 @@
 ---
 title: "Gresham Lab Flow Core Guide"
 author: "David Gresham"
-date: "November 15, 2015"
+date: "August, 2016"
 output: html_document
 ---
 #1) Write a detailed description of your experiment here.  If you still see this text it means that you have not described the experiment and whatever follows is meaningless.
